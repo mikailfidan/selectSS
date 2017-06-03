@@ -1,0 +1,5 @@
+requests
+subprocess
+ os
+bs4
+xclip

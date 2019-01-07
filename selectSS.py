@@ -31,7 +31,7 @@ def searchW(word):
             selected = selected + a.string + '\n'
 
     if total == 0:
-        sendmessage(word,"Not found in the directory")
+        sendmessage(word,"Not found in the dictionary")
     else:
         sendmessage(word, selected)
 
